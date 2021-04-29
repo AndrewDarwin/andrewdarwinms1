@@ -24,10 +24,27 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: 300px;
-    min-height: 300px;
-    
-    
+    min-height: 300px;  
 }
+
+.portfolio-photo {
+    background: url("../images/portfolio.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    min-height: 300px;  
+}
+
+.uneekibiza-photo {
+    background: url("../images/uneekibiza.jpg");
+    background-position: left;
+    margin-top: 5px;
+    background-repeat: no-repeat;
+    background-size: 500px;
+      min-height: 300px;
+      
+}
+
 .name {
     font-family: "open sans", sans-serif;
     font-weight: bold;
