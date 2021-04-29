@@ -9,7 +9,7 @@
 }
 
 
-.logo {
+.home-photo {
     background: url("../images/home.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -19,6 +19,15 @@
     
 }
 
+.about-photo {
+    background: url("../images/about.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    min-height: 300px;
+    
+    
+}
 .name {
     font-family: "open sans", sans-serif;
     font-weight: bold;
