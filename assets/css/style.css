@@ -45,6 +45,14 @@
       
 }
 
+.contact-photo {
+    background: url("../images/contact.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    min-height: 300px;  
+}
+
 .name {
     font-family: "open sans", sans-serif;
     font-weight: bold;
@@ -97,6 +105,8 @@ font-size: 30px;
     color: #000000;
     text-align:left;
 }
+
+
 
 
 /* ----------------------------------------Footer */
